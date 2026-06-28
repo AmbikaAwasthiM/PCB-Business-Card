@@ -4,5 +4,6 @@ Item #,Designator,Description,Quantity,Unit Cost (USD),Total Cost (USD),Supplier
 3,D1-D5,LED (150080SS75000),5,0.19,0.95,Digikey,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080SS75000/4489921
 4,R1-R5,47 Ohm Resistor (ERJ-3GEYJ470V),5,0.10,0.50,Digikey,https://www.digikey.com/en/products/detail/panasonic-industry/ERJ-3GEYJ470V/135632
 5,PCB,PCB (Custom),5,1.62,8.12,JLCPCB,N/A
-,,,,Total (incl. tax):,28.46,,
 ,,,,Total (incl. shipping):,24.75,,
+,,,,Total (incl. tax+shipping):,28.46,,
+
