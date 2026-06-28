@@ -1,9 +1,8 @@
 Item #,Designator,Description,Quantity,Unit Cost (USD),Total Cost (USD),Supplier,Part Link
-1,U1,NFC Chip (ST25DV64KC-JF6D3),1,1.80,1.80,Digikey,https://www.digikey.com/en/products/detail/stmicroelectronics/ST25DV64KC-JF6D3/16359669
+1,U1,NFC Chip (ST25DV64KC-JF6D3),5,1.8,9.00,Digikey,https://www.digikey.com/en/products/detail/stmicroelectronics/ST25DV64KC-JF6D3/16359669
 2,C1-C5,220nF Capacitor (C1608X7S2A104K080AB),5,0.15,0.75,Digikey,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X7S2A104K080AB/2116317
 3,D1-D5,LED (150080SS75000),5,0.19,0.95,Digikey,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080SS75000/4489921
 4,R1-R5,47 Ohm Resistor (ERJ-3GEYJ470V),5,0.10,0.50,Digikey,https://www.digikey.com/en/products/detail/panasonic-industry/ERJ-3GEYJ470V/135632
 5,PCB,PCB (Custom),5,1.62,8.12,JLCPCB,N/A
-,,,,Subtotal (excl. shipping):,11.27,,
-,,,,Total (incl. tax):,34.76,,
-,,,,Total (incl. shipping):,30.23,,
+,,,,Total (incl. tax):,28.46,,
+,,,,Total (incl. shipping):,24.75,,
